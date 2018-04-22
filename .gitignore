@@ -1,0 +1,10 @@
+# jekyll
+_site
+.sass-cache
+.jekyll-metadata
+
+# Ruby
+Gemfile.lock
+
+# idea
+.idea
